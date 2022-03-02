@@ -1,0 +1,41 @@
+/*
+Theme Name: Child CMS Webdesign starter
+Template: cmswebdesignstarter
+Author: CMS Webdesign
+Author URI: https://cmswebdesign.nl
+Description: This is a child theme from CMS Webdesign.
+Version: 1.0
+Updated: 2022-03-02 22:15:27
+*/
+
+/*
+* #.# Top bar
+*
+*/
+.top-bar
+.container {
+  justify-content: center;
+}
+
+.top-bar .logo-container {
+  display: none;
+}
+
+.top-bar-cart-container {
+  display: none;
+}
+
+.top-bar 
+.top-bar-search-bar {
+  width: 100%;
+  max-width: 600px;
+}
+
+/*
+* #.# Navbar
+*
+*/
+.header-section 
+.btn-search {
+  display: none;
+}
