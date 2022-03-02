@@ -39,3 +39,18 @@ Updated: 2022-03-02 22:15:27
 .btn-search {
   display: none;
 }
+
+/*********************************************************/
+/* Woocommerce Styling */
+/*********************************************************/
+
+/*
+* Shop page add to cart button
+*
+*/
+.woocommerce-shop
+.add_to_cart_button {
+  background-color: #009e0f !important;
+  color: #fff !important;
+  margin-top: 3px !important;
+}
