@@ -54,3 +54,7 @@ Updated: 2022-03-02 22:15:27
   color: #fff !important;
   margin-top: 3px !important;
 }
+
+.copyright p {
+  color: red;
+}
