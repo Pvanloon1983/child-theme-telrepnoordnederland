@@ -9,6 +9,10 @@ Version: 1.0
 Updated: 2022-03-02 22:15:27
 */
 
+.copyright p {
+  color: aqua;
+}
+
 /*
 * #.# Top bar
 *
